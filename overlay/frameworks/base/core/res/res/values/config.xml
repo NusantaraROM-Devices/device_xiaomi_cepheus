@@ -1089,4 +1089,7 @@
     <string name="config_adaptiveChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/input_suspend</string>
     <string name="config_adaptiveChargingSuspendValue" translatable="false">1</string>
     <string name="config_adaptiveChargingResumeValue" translatable="false">0</string>
+    
+    <!-- Default fod pressed color -->
+    <integer name="config_fod_pressed_color">2</integer>  
 </resources>
