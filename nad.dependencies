@@ -16,11 +16,10 @@
    "branch"     : "lineage-18.1"
  },
  {
-   "repository" : "vendor_xiaomi-firmware",
+   "remote"     : "gitlab",
+   "repository" : "EcrosoftXiao/vendor_xiaomi_firmware",
    "target_path": "vendor/xiaomi/firmware",
-   "remote"     : "pixel-devices-blobs",
-   "clone-depth": "1",
-   "branch"     : "eleven"
+   "branch"     : "master"
  },
  {
    "repository" : "kdrag0n/proton-clang",
