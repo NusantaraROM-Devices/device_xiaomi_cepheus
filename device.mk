@@ -123,6 +123,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     XiaomiParts
 
+# Charger
+PRODUCT_PACKAGES += \
+    libsuspend
+
 # Display
 PRODUCT_PACKAGES += \
     disable_configstore
