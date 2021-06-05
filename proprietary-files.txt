@@ -750,6 +750,9 @@ vendor/lib64/liblearningmodule.so
 vendor/lib64/libmeters.so
 vendor/lib64/vendor.qti.power.pasrmanager@1.0.so
 
+# Power-off charging daemon
+bin/charger
+
 # Peripheral Manager
 vendor/bin/pm-proxy
 vendor/bin/pm-service
