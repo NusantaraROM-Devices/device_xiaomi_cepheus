@@ -38,6 +38,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 USE_PIXEL_CHARGING := true
 TARGET_FACE_UNLOCK := true
 TARGET_FOD_ANIMATIONS := true
+TARGET_USES_BLUR := true
 
 # Include firmware
 $(call inherit-product, vendor/xiaomi/firmware/cepheus/firmware.mk)
