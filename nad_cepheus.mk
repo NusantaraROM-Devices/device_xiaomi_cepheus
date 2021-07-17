@@ -34,5 +34,9 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi 9
 PRODUCT_MANUFACTURER := Xiaomi
 
+# Gapps Stuff
+USE_PIXEL_CHARGING := true
+TARGET_FACE_UNLOCK := true
+
 # Include firmware
 $(call inherit-product, vendor/xiaomi/firmware/cepheus/firmware.mk)
