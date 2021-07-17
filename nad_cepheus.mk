@@ -37,6 +37,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 # Gapps Stuff
 USE_PIXEL_CHARGING := true
 TARGET_FACE_UNLOCK := true
+TARGET_FOD_ANIMATIONS := true
 
 # Include firmware
 $(call inherit-product, vendor/xiaomi/firmware/cepheus/firmware.mk)
