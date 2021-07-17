@@ -505,3 +505,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Mac Address Generator
 PRODUCT_PACKAGES += \
     wifi-mac-generator
+
+# Nusantara Papers
+PRODUCT_PACKAGES += \
+	NusantaraPapers
