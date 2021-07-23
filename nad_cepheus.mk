@@ -27,8 +27,8 @@ $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 # Google Camera
 $(call inherit-product-if-exists, vendor/GoogleCamera/GoogleCamera.mk)
 
-# Boot animation
-TARGET_BOOT_ANIMATION_RES := 1080
+# NAD Stuff
+NAD_BUILD_TYPE := OFFICIAL
 
 # Device identifier
 PRODUCT_NAME := nad_cepheus
@@ -38,6 +38,7 @@ PRODUCT_MODEL := Mi 9
 PRODUCT_MANUFACTURER := Xiaomi
 
 # Gapps Stuff
+TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_FACE_UNLOCK := true
 TARGET_FOD_ANIMATIONS := true
 TARGET_USES_BLUR := true
