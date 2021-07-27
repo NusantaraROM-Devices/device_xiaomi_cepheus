@@ -1,19 +1,15 @@
 [
  {
-   "repository" : "vendor_xiaomi_cepheus",
+   "remote"     : "github",
+   "repository" : "NusantaraROM-Devices/vendor_xiaomi_cepheus",
    "target_path": "vendor/xiaomi/cepheus",
-   "remote"     : "pixel-devices-blobs",
-   "branch"     : "eleven"
+   "branch"     : "11"
  },
  {
-   "repository" : "kernel_xiaomi_cepheus",
+   "remote"     : "github",
+   "repository" : "trisfproject/kernel_xiaomi_cepheus",
    "target_path": "kernel/xiaomi/cepheus",
    "branch"     : "eleven"
- },
- {
-   "repository" : "LineageOS/android_hardware_xiaomi",
-   "target_path": "hardware/xiaomi",
-   "branch"     : "lineage-18.1"
  },
  {
    "remote"     : "gitlab",
@@ -22,6 +18,13 @@
    "branch"     : "master"
  },
  {
+   "remote"     : "github",
+   "repository" : "trisfaizal/vendor_GoogleCamera",
+   "target_path": "vendor/GoogleCamera",
+   "branch"     : "11"
+ },
+ {
+   "remote"     : "github",
    "repository" : "kdrag0n/proton-clang",
    "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
    "branch"     : "master"
