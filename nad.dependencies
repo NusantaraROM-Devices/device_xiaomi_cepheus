@@ -1,7 +1,7 @@
 [
  {
    "remote"     : "github",
-   "repository" : "NusantaraROM-Devices/vendor_xiaomi_cepheus",
+   "repository" : "trisfproject/vendor_xiaomi_cepheus",
    "target_path": "vendor/xiaomi/cepheus",
    "branch"     : "11"
  },
@@ -9,13 +9,13 @@
    "remote"     : "github",
    "repository" : "trisfproject/kernel_xiaomi_cepheus",
    "target_path": "kernel/xiaomi/cepheus",
-   "branch"     : "eleven"
+   "branch"     : "11"
  },
  {
    "remote"     : "gitlab",
-   "repository" : "EcrosoftXiao/vendor_xiaomi_firmware",
+   "repository" : "trisf/vendor_xiaomi_firmware-cepheus",
    "target_path": "vendor/xiaomi/firmware",
-   "branch"     : "master"
+   "branch"     : "11"
  },
  {
    "remote"     : "github",
