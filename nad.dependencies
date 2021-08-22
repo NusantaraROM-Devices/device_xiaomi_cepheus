@@ -19,8 +19,8 @@
  },
  {
    "remote"     : "github",
-   "repository" : "trisfaizal/vendor_GoogleCamera",
-   "target_path": "vendor/GoogleCamera",
+   "repository" : "trisfproject/vendor_apps_GoogleCamera",
+   "target_path": "vendor/apps/GoogleCamera",
    "branch"     : "11"
  }
 ]
