@@ -44,4 +44,4 @@ TARGET_FOD_ANIMATIONS := true
 TARGET_USES_BLUR := true
 
 # Include firmware
-$(call inherit-product, vendor/xiaomi/firmware/cepheus/firmware.mk)
+$(call inherit-product, vendor/xiaomi-firmware/cepheus/firmware.mk)

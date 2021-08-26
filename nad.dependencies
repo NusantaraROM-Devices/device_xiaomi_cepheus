@@ -14,7 +14,7 @@
  {
    "remote"     : "gitlab",
    "repository" : "trisf/vendor_xiaomi_firmware-cepheus",
-   "target_path": "vendor/xiaomi/firmware",
+   "target_path": "vendor/xiaomi-firmware",
    "branch"     : "11"
  },
  {
