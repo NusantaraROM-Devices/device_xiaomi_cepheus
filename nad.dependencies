@@ -20,7 +20,7 @@
  {
    "remote"     : "github",
    "repository" : "trisfproject/vendor_apps_GoogleCamera",
-   "target_path": "vendor/apps/GoogleCamera",
+   "target_path": "vendor/GoogleCamera",
    "branch"     : "11"
  }
 ]

@@ -25,7 +25,7 @@ $(call inherit-product, device/xiaomi/cepheus/device.mk)
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
 # Google Camera
-$(call inherit-product-if-exists, vendor/apps/GoogleCamera/GoogleCameraParrot.mk)
+$(call inherit-product-if-exists, vendor/GoogleCamera/GoogleCameraParrot.mk)
 
 # NAD Stuff
 NAD_BUILD_TYPE := OFFICIAL
