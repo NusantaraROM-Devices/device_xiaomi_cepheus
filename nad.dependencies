@@ -19,8 +19,8 @@
  },
  {
    "remote"     : "github",
-   "repository" : "trisfproject/vendor_apps_GoogleCamera",
+   "repository" : "trisfproject/vendor_GoogleCamera",
    "target_path": "vendor/GoogleCamera",
-   "branch"     : "11"
+   "branch"     : "8.1"
  }
 ]
